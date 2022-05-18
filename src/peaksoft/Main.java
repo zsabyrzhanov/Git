@@ -3,6 +3,8 @@ package peaksoft;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(" Hello Moscow ");
+
+
+        Car car = new Car("Honda Civic","Black");
     }
 }
